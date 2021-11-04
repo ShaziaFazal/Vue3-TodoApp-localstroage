@@ -1,4 +1,4 @@
-# todoapp
+# todoapp (using Vue3 + Composition API + Tailwindcss + localstorage)
 
 ## Project setup
 ```
